@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/headphones-store/static/css/main.aeaf2234.css",
+    "main.js": "/headphones-store/static/js/main.eae7050c.js",
+    "static/js/787.06663485.chunk.js": "/headphones-store/static/js/787.06663485.chunk.js",
+    "static/media/bottom-background.png": "/headphones-store/static/media/bottom-background.fd430d2c5e840f47500f.png",
+    "static/media/img-for-myFavouritePage.png": "/headphones-store/static/media/img-for-myFavouritePage.9888c192c229d8f518f2.png",
+    "static/media/headphone-banner.jpg": "/headphones-store/static/media/headphone-banner.60cee02fddaa76306671.jpg",
+    "static/media/portrait-asian-girl.jpg": "/headphones-store/static/media/portrait-asian-girl.34f83f8504ce839d2811.jpg",
+    "static/media/dreamy-girl.jpg": "/headphones-store/static/media/dreamy-girl.77c171f806c7b1db132b.jpg",
+    "static/media/headphone3.jpg": "/headphones-store/static/media/headphone3.53fbcf72e8167ae22b15.jpg",
+    "static/media/headphone5.jpg": "/headphones-store/static/media/headphone5.3810979d45ed6db55150.jpg",
+    "static/media/headphone6.jpg": "/headphones-store/static/media/headphone6.e27e3ed9d52654b999f4.jpg",
+    "static/media/headphone2.jpg": "/headphones-store/static/media/headphone2.832d8862f891749fa70a.jpg",
+    "static/media/african-girl.jpg": "/headphones-store/static/media/african-girl.f1bb53c665693a82c930.jpg",
+    "static/media/headphones-keyboard.jpg": "/headphones-store/static/media/headphones-keyboard.6a0567da986f53ffa046.jpg",
+    "static/media/man.jpg": "/headphones-store/static/media/man.1d85f0a813580fe79795.jpg",
+    "static/media/headphone4.jpg": "/headphones-store/static/media/headphone4.6966a7991ea4fc37aa7d.jpg",
+    "static/media/headphone1.jpg": "/headphones-store/static/media/headphone1.1bfc6a30134f3626cb2b.jpg",
+    "static/media/headphoneLogo.png": "/headphones-store/static/media/headphoneLogo.31c193b110a22e808a94.png",
+    "static/media/logo.svg": "/headphones-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/headphones-store/index.html",
+    "main.aeaf2234.css.map": "/headphones-store/static/css/main.aeaf2234.css.map",
+    "main.eae7050c.js.map": "/headphones-store/static/js/main.eae7050c.js.map",
+    "787.06663485.chunk.js.map": "/headphones-store/static/js/787.06663485.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeaf2234.css",
+    "static/js/main.eae7050c.js"
+  ]
+}
